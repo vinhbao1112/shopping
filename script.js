@@ -209,7 +209,7 @@ const renderData = () => {
     if (main) {
         const item = datas.map((data, index) => {
             return `
-                <div class="grid__column-2-4">
+                <div class="grid__column-1-4">
                 <div class="home-product-item">
                     <div class="home-product-item__img home-product-add-cart"
                         style="background-image: url(${data.img})"></div>

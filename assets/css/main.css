@@ -139,6 +139,7 @@ body {
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
     transition: transform ease-in 0.1s;
     will-change: transform;
+    width: 100%;
 }
 
 .home-product-item:hover {
@@ -937,4 +938,14 @@ body {
 .list-cart-item-button:hover {
     opacity: 0.7;
     cursor: pointer;
+}
+
+@media screen  and (max-width: 390px){ 
+    .grid {
+        display: block;
+    }
+    .home-product-item {
+        margin-top: 40px;
+    }
+
 }
