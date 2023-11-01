@@ -940,7 +940,7 @@ body {
     cursor: pointer;
 }
 
-@media screen  and (max-width: 578px){ 
+@media screen  and (max-width: 390px){ 
     .grid {
         display: block;
     }
