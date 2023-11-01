@@ -61,3 +61,10 @@ html {
     padding-right: 5px;
     width: 83.3334%;
 }
+
+@media screen  and (max-width: 787px){ 
+    .grid {
+        display: block;
+    }
+    
+}
