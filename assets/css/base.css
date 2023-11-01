@@ -69,7 +69,7 @@ html {
     
 } */
 
-@media screen  and (max-width: 576px){ 
+@media screen  and (max-width: 568px){ 
     .grid {
         display: block;
     }
