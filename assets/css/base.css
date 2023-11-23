@@ -80,4 +80,8 @@ html {
         margin-left: -30px;
     }
 
+    .grid__column-1-4 {
+        padding-top: 10px;
+    }
+
 }
